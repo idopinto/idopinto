@@ -17,6 +17,6 @@ I am a second year CS student at the Hebrew University of jerusalem.
 
 ## Expertise
 
-<img align="left" alt="Python" src="https://img.shields.io/badge/python-3.6-blue.svg" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <br>
 <br>
