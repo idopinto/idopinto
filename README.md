@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a second year CS student at the Hebrew University of jerusalem.
-- 🔭 Currently Working on my university projects 'From nand To tetris' and
+- 🔭 Currently working on my university courses 'From nand To tetris' and
 -    'Intro to Object-Oriented Programming'.
 - 🌱 Learning OOP methodology and design patterns in depth.
 -     Intersted in Math, algorithms and AI. 
