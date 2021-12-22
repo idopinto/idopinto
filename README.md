@@ -4,8 +4,6 @@ I am a second year CS student at the Hebrew University of jerusalem.
 - 🌱 Learning OOP methodology and design patterns in depth.
     
     Intersted in mathematics, algorithms and artificial intelligence
-    
-    planning to dive into data science in the near future!
 <br>
 
 ## Connect with me
