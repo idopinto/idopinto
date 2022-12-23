@@ -1,25 +1,20 @@
-### Hello World 👋
-I am a third year CS student at the Hebrew University of jerusalem.
-- 🔭 Recently completed working on my university courses 'Introduction to Probability and statistics' , 'Algorithms' and 'Operating systems'
+# 🏔 About Me:
+Hi there!👋<br>I am a third year CS student at the Hebrew University of jerusalem.<br>. I am passionate about coding and solving problems.<br>🔭 Recently completed working on my university courses 'Introduction to Probability and statistics' , 'Algorithms' and 'Operating systems'<br>🔛 Currently learning classical image processing methods <br>🎯 My main interests lie in backend development, machine learning, computer vision, and artificial intelligence in general<br><br>Feel free to check out my GitHub profile to see some of the projects I have worked on and to get a sense of my interests and skills. <br>Thank you for stopping by!
 
-    Intersted in mathematics, algorithms and artificial intelligence
-<br>
 
-## Connect with me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ido.pinto.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ido-pinto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ido.pinto) 
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ido-pinto)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ido.pinto)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14305701/ido-pinto)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/ido.pinto.5)
-<br>
-<br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=idopinto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=idopinto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=idopinto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Programming languages
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+---
+[![](https://visitcount.itsvg.in/api?id=idopinto&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
