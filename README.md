@@ -1,5 +1,5 @@
 # 🏔 About Me:
-Hi there!👋<br>I am a third year CS student at the Hebrew University of jerusalem.<br>. I am passionate about coding and solving problems.<br>🔭 Recently completed working on my university courses 'Introduction to Probability and statistics' , 'Algorithms' and 'Operating systems'<br>🔛 Currently learning classical image processing methods <br>🎯 My main interests lie in backend development, machine learning, computer vision, and artificial intelligence in general<br><br>Feel free to check out my GitHub profile to see some of the projects I have worked on and to get a sense of my interests and skills. <br>Thank you for stopping by!
+Hi there!👋<br>I am a third year CS student at the Hebrew University of jerusalem.<br> I am passionate about coding and solving problems.<br>🔭 Recently completed working on my university courses 'Introduction to Probability and statistics' , 'Algorithms' and 'Operating systems'<br>🔛 Currently learning classical image processing methods <br>🎯 My main interests lie in backend development, machine learning, computer vision, and artificial intelligence in general<br><br>Feel free to check out my GitHub profile to see some of the projects I have worked on and to get a sense of my interests and skills. <br>Thank you for stopping by!
 
 
 ## 🌐 Socials:
