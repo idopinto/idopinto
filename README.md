@@ -1,13 +1,8 @@
 # 🏔 About Me:
 Hi there!👋
 
-I am a third year CS student at the Hebrew University of jerusalem.
-
-I am passionate about coding and solving problems.
-
-🎯 Currently  studying Machine learning, Databases and Cryptography.
-
-My main interests lie in backend development, machine learning, computer vision, and artificial intelligence in general
+I am a MSc student in Computer Science from the Hebrew University of jerusalem.
+I am passionate about Natural Langauge Processing, Computer vision and their intersection!
 
 Feel free to check out my GitHub profile to see some of the projects I have worked on and to get a sense of my interests and skills.
 
