@@ -1,12 +1,11 @@
 # 🏔 About Me:
-Hi there!👋
+Hey there!👋
 
-I am a MSc student in Computer Science from the Hebrew University of jerusalem.
-I am passionate about Natural Langauge Processing, Computer vision and their intersection!
+I'm Ido Pinto, a Master's student in Computer Science from HUJI, currently focused on NLP for science and medicine.
 
-Feel free to check out my GitHub profile to see some of the projects I have worked on and to get a sense of my interests and skills.
+I'm working on improving represention learning of scientific documents across different fields.
 
-Thank you for stopping by!
+Check out my GitHub to explore the projects I’ve worked on and get a glimpse of my skills and interests!
 
 
 ## 🌐 Socials:
