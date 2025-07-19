@@ -1,10 +1,8 @@
 # 🏔 About Me:
 Hey there!👋
 
-I'm Ido Pinto, a Master's student in Computer Science from HUJI, currently focused on NLP for science and medicine.
-
-I'm working on improving represention learning of scientific documents across different fields.
-
+I'm Ido Pinto, a Master's student in Computer Science @ HUJI. 
+Currently focused in NLP & Formal methods research and Formally verified Code Generation by LLMs.
 Check out my GitHub to explore the projects I’ve worked on and get a glimpse of my skills and interests!
 
 
